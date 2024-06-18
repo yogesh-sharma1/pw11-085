@@ -1,7 +1,7 @@
 <p align="center"><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  alt="Coding" width="100%"height="500"></p>
 
 <h2 align="center">
-  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/pw11-085" target="_blank" rel="noopener noreferrer">Yogesh Sharma</a>.
+  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/yogesh-sharma1" target="_blank" rel="noopener noreferrer">Yogesh Sharma</a>.
 </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
@@ -13,7 +13,7 @@
 
 ## 🏆 Trophies :
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pw11-085&theme=onedark" alt="yogeshTrophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-sharma1&theme=onedark" alt="yogeshTrophies" /></a> </p>
 
 ## 👨‍💻 TECH STACK :
 
@@ -41,11 +41,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=pw11-085&theme=neon&border_radius=2.7&show_icons=true" alt="Yoges Sharma" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=yogesh-sharma1&theme=neon&border_radius=2.7&show_icons=true" alt="Yoges Sharma" />
   
-<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pw11-085&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Yogesh Sharma" />
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh-sharma1&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="Yogesh Sharma" />
   
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pw11-085&theme=neon&border_radius=2.7" alt="Yogesh Sharma" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-sharma1&theme=neon&border_radius=2.7" alt="Yogesh Sharma" />
   
 </div>
 
@@ -56,18 +56,18 @@
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="https://www.linkedin.com/in/yogesh-sharma-262115219/" width="40px" />
         </a>
-        <a href="https://github.com/pw11-085" target="blank">
+        <a href="https://github.com/yogesh-sharma1" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
-                alt="https://github.com/pw11-085" width="40px"/>
+                alt="https://github.com/yogesh-sharma1" width="40px"/>
         </a>
     </p>
     <h2>❤ Views and Followers :</h2>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/pw11-085/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=pw11-085" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/yogesh-sharma1/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=yogesh-sharma1" >
     </a>
-    <a href="https://github.com/pw11-085?tab=followers">
-        <img src="https://img.shields.io/github/followers/pw11-085?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/yogesh-sharma1?tab=followers">
+        <img src="https://img.shields.io/github/followers/yogesh-sharma1?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://pw11-085.github.io">🌍 | Portfolio </a></h2>
+    <h2><a href="https://yogesh-sharma1.github.io">🌍 | Portfolio </a></h2>
